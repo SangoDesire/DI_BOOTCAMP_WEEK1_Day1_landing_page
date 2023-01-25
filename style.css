@@ -1,0 +1,29 @@
+    *#signup {
+        background-color: rgb(4, 0, 255);
+    }
+    
+    #grand {
+        background-image: url("eau.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    #button {
+        text-align: center;
+    }
+    
+    #paragraphe {
+        text-align: center;
+        color: white;
+        font-size: xx-large;
+    }
+    
+    #grand {
+        padding: 30px;
+        padding-top: 250px;
+    }
+    
+    * {
+        padding: 0;
+        margin: 0;
+    }
